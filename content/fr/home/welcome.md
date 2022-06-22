@@ -1,0 +1,23 @@
+---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 10  # Order that this section will appear.
+title: 
+hero_media: cyber.jpg
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+
+<br>
+
+**LCSec** est le groupe de recherche en cybersécurité de l'ÉTS. Les principaux objectifs du labo sont: 
+* Contribuer à la formation de personnel hautement qualifié en cybersécurité;
+* Mener des recherches fondamentales et appliquées en sécurité informatique et en protection des renseignements personnels en collaboration avec des partenaires académiques, industriels et gouvernementaux.
