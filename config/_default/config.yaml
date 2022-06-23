@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: LCSec # Website name
-baseurl: 'https://lcsec-ets.github.io' # Website URL
+title: Laboratoire de Cybersécurité (LCSec) # Website name
+baseurl: 'https://lcsec-lab.ca' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
