@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professeurs
+- Membres externes
 ---
 
 Le Dr Azzam Mourad est professeur d'informatique et a été directeur associé du Département d'informatique et de mathématiques. Le Dr Mourad est professeur associé adjoint/affilié à l'École de technologie supérieure de l'Université du Québec. Il est titulaire d'un doctorat en génie électrique et informatique de l'Université Concordia, Canada et d'une maîtrise en informatique de l'Université Laval, Québec, Canada. Il dirige plusieurs projets de recherche et a publié plus de 85 articles de recherche dans des livres, des revues et des conférences internationaux évalués par des pairs sur la modélisation de la sécurité et la gestion des ressources dans les technologies émergentes telles que le cloud computing, le Fog Computing, le Edge Computing, l'Internet des objets et l'apprentissage fédéré, la Cybersécurité, la Sécurité des réseaux mobiles et sans fil, VANET et l'Analyse de la sécurité basée sur la sémantique.

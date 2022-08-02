@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professeurs
+- Membres externes
 ---
 
 Oussama est un chercheur et un consultant chevronné dans le domaine de la cybersécurité, qui a fait ses preuves dans le secteur des TI. Il possède une grande expertise en matière de tests de pénétration ainsi qu'une connaissance approfondie des comportements et des techniques des pirates informatiques. Il est également expert au sein l'équipe de réponse aux incidents à StreamScan et prête main forte afin de démanteler les logiciels malveillants. Oussama enseigne la spécialisation des tests d'intrusion à l'ÉTS.

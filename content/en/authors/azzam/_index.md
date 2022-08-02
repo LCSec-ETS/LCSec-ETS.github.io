@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- External members
 ---
 
 Dr. Azzam Mourad is a professor of computer science, and was the associate chairperson at the Department of Computer Science and Mathematics. Dr. Mourad is an adjunct/affiliate associate professor at Ecole de Technology Supérieure of the University of Québec. He holds a PhD in Electrical and Computer Engineering from Concordia University, Canada and an MSc in Computer Science from Laval University, Québec, Canada. He is leading several research projects and has published more than 85 research papers in international peer-reviewed books, journals and conferences on Security Modeling and Resource Management in Emerging Technologies such as Cloud Computing, Fog Computing, Edge Computing, Internet of Things and Federated Learning, Cybersecurity, Mobile and Wireless Network Security, VANET, and Semantics-Based Security Analysis.

@@ -6,7 +6,7 @@ title: Ulrich Aïvodji
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:

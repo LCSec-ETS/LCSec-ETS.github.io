@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- External members
 ---
 
 Oussama is a seasoned cybersecurity researcher and consultant with a proven track record in the IT industry. He has extensive expertise in penetration testing as well as in-depth knowledge of hacker behaviors and techniques. He is also an expert in the incident response team at StreamScan and lends a hand in dismantling malware. Oussama teaches the specialization of penetration testing at ÉTS.

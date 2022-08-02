@@ -23,6 +23,7 @@ content:
   #- Visitors
   #- Alumni
   - Professeurs
+  - Membres externes
 design:
   show_interests: false
   show_role: true
