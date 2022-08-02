@@ -14,7 +14,7 @@ organizations:
   url: https://www.etsmtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor at ETS Montrel
+bio: Professor at ETS Montreal
 
 interests:
 - Blockchain

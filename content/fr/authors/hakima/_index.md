@@ -1,42 +1,41 @@
 ---
 # Display name
-title:  Chamseddine Talhi
+title:  Hakima Ould-Slimane
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Professeure
 
 # Organizations/Affiliations
 organizations:
-- name: École de technologie supérieure
-  url: https://www.etsmtl.ca/
+- name: Université du Québec à Trois-Rivières
+  url: https://www.uqtr.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor at ETS Montreal.
+bio: Professeure à Université du Québec à Trois-Rivières
 
 interests:
-- Enbedded Systems Virtualization and Security 
-- Intrusion Detection for Smartphones  
-- Android Security 
-- Cloud Security 
-- Security Policies and Security Mechanisms 
-- Digital Investigation 
-- Model Driven Software Engineering 
+- Cybersecurité
+- Vie privée
+- Apprentissage Fédéré
+- Cryptographe
+- Méthodes Formelles
+
 
 
 education:
   courses:
-  - course: Ph.D. in Computer Science
-    institution: Université Laval
-    year: --
-  - course: M.Sc. 
-    institution: Université Constantine
-    year: --
-  - course: Dipl. d’ingénieur 
-    institution: Université Annaba
-    year: --
+  - course: Ph.D. 
+    institution: 
+    year: 
+  - course: M.Sc.
+    institution: 
+    year: 
+  - course: B.Sc. 
+    institution: 
+    year: 
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chamseddine.talhi@etsmtl.ca'
+  link: 'mailto:azzam.mourad@lau.edu.lb'
 - icon: twitter
   icon_pack: fab
   link: '#'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=38nx-BYAAAAJ
+  link: https://scholar.google.ca/citations?user=bCgjMGQAAAAJ
 - icon: github
   icon_pack: fab
   link: '#'
@@ -70,7 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- Professeurs
 ---
 
-I am a Professor of Computer Science at [ÉTS Montréal](https://www.etsmtl.ca/) in the [Software and Information Technology Engineering Department](https://www.etsmtl.ca/ets/gouvernance/decanats-et-departements/departement-genie-logiciel-ti).

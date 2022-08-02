@@ -1,43 +1,31 @@
 ---
 # Display name
-title:  Chamseddine Talhi
+title:   Oussama Boudar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Cyber Security Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: École de technologie supérieure
-  url: https://www.etsmtl.ca/
+- name: StreamScan
+  url: https://streamscan.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor at ETS Montreal.
+bio: Cyber Security Specialist at StreamScan
 
 interests:
-- Enbedded Systems Virtualization and Security 
-- Intrusion Detection for Smartphones  
-- Android Security 
-- Cloud Security 
-- Security Policies and Security Mechanisms 
-- Digital Investigation 
-- Model Driven Software Engineering 
+- Cybersecurity
 
 
 education:
   courses:
-  - course: Ph.D. in Computer Science
-    institution: Université Laval
-    year: --
-  - course: M.Sc. 
-    institution: Université Constantine
-    year: --
-  - course: Dipl. d’ingénieur 
-    institution: Université Annaba
-    year: --
-  
+  - course: M.Eng. 
+    institution: ÉTS
+    year: 2015
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,13 +33,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chamseddine.talhi@etsmtl.ca'
+  link: '#'
 - icon: twitter
   icon_pack: fab
   link: '#'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=38nx-BYAAAAJ
+  link: #
 - icon: github
   icon_pack: fab
   link: '#'
@@ -73,4 +61,4 @@ user_groups:
 - Professors
 ---
 
-I am a Professor of Computer Science at [ÉTS Montréal](https://www.etsmtl.ca/) in the [Software and Information Technology Engineering Department](https://www.etsmtl.ca/ets/gouvernance/decanats-et-departements/departement-genie-logiciel-ti).
+Oussama is a seasoned cybersecurity researcher and consultant with a proven track record in the IT industry. He has extensive expertise in penetration testing as well as in-depth knowledge of hacker behaviors and techniques. He is also an expert in the incident response team at StreamScan and lends a hand in dismantling malware. Oussama teaches the specialization of penetration testing at ÉTS.
