@@ -19,8 +19,8 @@ bio: Professeur au département de génie logiciel et des technologies de l'info
 interests:
 - Vie privée
 - Sécurité informatique
-- Optimisation
 - Apprentissage automatique
+- IA responsable
 
 
 education:
