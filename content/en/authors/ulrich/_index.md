@@ -67,6 +67,6 @@ user_groups:
 - Professors
 ---
 
-I am an Assistant Professor of Computer Science at [ÉTS Montréal](https://www.etsmtl.ca/) in the [Software and Information Technology Engineering Department](https://www.etsmtl.ca/ets/gouvernance/decanats-et-departements/departement-genie-logiciel-ti). My research areas of interests are computer security, data privacy, optimization, and machine learning. My current research focuses on several aspects of trustworthy machine learning, such as fairness, privacy, robustness, interpretability, and explainability.
+I am an Associate Professor at [ÉTS Montréal](https://www.etsmtl.ca/) in the [Software and Information Technology Engineering Department](https://www.etsmtl.ca/ets/gouvernance/decanats-et-departements/departement-genie-logiciel-ti). My research areas of interests are computer security, data privacy, optimization, and machine learning. My current research focuses on several aspects of trustworthy machine learning, such as fairness, privacy, robustness, interpretability, and explainability.
 
 
