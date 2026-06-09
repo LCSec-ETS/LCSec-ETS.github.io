@@ -17,10 +17,13 @@ organizations:
 bio: Professeur au département de génie logiciel et des technologies de l'information à l'École de technologie supérieure de Montréal.
 
 interests:
+- IA de confiance
 - Vie privée
-- Sécurité informatique
-- Optimisation
-- Apprentissage automatique
+- Explicabilité
+- Interpretabilité
+- Équité Algorithmique
+- Cybersécurité
+
 
 
 education:

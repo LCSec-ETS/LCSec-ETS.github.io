@@ -17,10 +17,12 @@ organizations:
 bio: Assistant Professor at ETS Montrel
 
 interests:
+- Trustworthy AI
 - Data Privacy
-- Computer Security
-- Optimization
-- Machine Learning
+- Explainability
+- Interpretability
+- Algorithmic Fairness
+- Cybersecurity
 
 
 education:
