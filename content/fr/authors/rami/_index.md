@@ -10,32 +10,32 @@ role: Professeur
 
 # Organizations/Affiliations
 organizations:
-- name: école de technologie supérieure (ÉTS)
+- name: Ã‰cole de technologie supÃ©rieure (Ã‰TS)
   url: https://www.etsmtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professeur au département de génie logiciel et des technologies de l'information  à l'é‰cole de technologie supérieure de Montréal.
+bio: Professeur au dÃ©partement de gÃ©nie logiciel et des technologies de l'information Ã  l'Ã‰cole de technologie supÃ©rieure de MontrÃ©al.
 
 interests:
-- Réseaux mobiles de nouvelles génération
-- Informatique infonuagique et de périphérie
-- Cybersécurité
+- RÃ©seaux mobiles de nouvelles gÃ©nÃ©ration
+- Informatique infonuagique et de pÃ©riphÃ©rie
+- CybersÃ©curitÃ©
 - Optimisation des ressources
-- Efficacité énergétique
-- Apprentissage automatique, quantique, et génénatif
-- Jumeaux numériques
+- EfficacitÃ© Ã©nergÃ©tique
+- Apprentissage automatique, quantique, et gÃ©nÃ©natif
+- Jumeaux numÃ©riques
 
 
 education:
   courses:
-  - course: HDR (Habilitation à Diriger des Recherches) en Sciences pour l'ingénieur
-    institution: Sorbonne Université, Paris, France
+  - course: HDR (Habilitation Ã  Diriger des Recherches) en Sciences pour l'ingÃ©nieur
+    institution: Sorbonne Universitï¿½, Paris, France
     year: 2013
-  - course: PhD en Réseaux et Télécommunication
-    institution: Télécom ParisTech, Paris, France
+  - course: PhD en RÃ©seaux et TÃ©lÃ©communication
+    institution: TÃ©lÃ©com ParisTech, Paris, France
     year: 2006
-  - course: Maitrise recherche en Réseaux
-    institution: Sorbonne Université, Paris, France
+  - course: Maitrise recherche en RÃ©seaux
+    institution: Sorbonne UniversitÃ©, Paris, France
     year: 2002
  
   
@@ -71,4 +71,4 @@ user_groups:
 - Professeurs
 ---
 
-Je suis professeur en informatique à l'École de technologie supérieure (ÉTS) de Montréal, Canada, depuis 2021. Mes travaux de recherche portent principalement sur la gestion des ressources dans les réseaux 5G/6G et O-RAN, les réseaux économes en énergie (green networking), l'apprentissage automatique appliqué aux communications et aux réseaux, la cybersécurité, les jumeaux numériques (digital twin) ainsi que l'intelligence artificielle quantique.
+Je suis professeur en informatique Ã  l'Ã©cole de technologie supÃ©rieure (Ã‰TS) de MontrÃ©al, Canada, depuis 2021. Mes travaux de recherche portent principalement sur la gestion des ressources dans les rÃ©seaux 5G/6G et O-RAN, les rÃ©seaux Ã©conomes en Ã©nergie (green networking), l'apprentissage automatique appliquÃ© aux communications et aux rÃ©seaux, la cybersÃ©curitÃ©, les jumeaux numÃ©riques (digital twin) ainsi que l'intelligence artificielle quantique.

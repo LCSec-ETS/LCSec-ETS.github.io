@@ -6,31 +6,37 @@ title: Rami Langar
 superuser: false
 
 # Role/position
-role: Full Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: école de technologie supérieure (ÉTS)
+- name: Ã‰cole de technologie supÃ©rieure (Ã‰TS)
   url: https://www.etsmtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Full Professor at ÉTS Montreal
+bio: Full Professor at Ã‰TS Montreal
 
 interests:
-- Resource and Mobility management in future wireless networks (5G/6G networks, O-RAN).- Cybersecurity in 5G/6G/O-RAN networks.- AI and Quantum AI for wireless networks.- Green networking and Green Cloud.- Computation Offloading in Mobile Edge Computing (MEC).- Smart cities and Software defined wireless networks.- Digital Twin.
+- Resource and Mobility management in future wireless networks (5G/6G networks, O-RAN).
+- Cybersecurity in 5G/6G/O-RAN networks.
+- AI and Quantum AI for wireless networks.
+- Green networking and Green Cloud.
+- Computation Offloading in Mobile Edge Computing (MEC).
+- Smart cities and Software defined wireless networks.
+- Digital Twin.
 
 
 education:
   courses:
-   - course: HDR (Habilitation à Diriger des Recherches) in Computer Science
-    institution: Sorbonne Université, Paris, France
-    year: 2013
-  - course: PhD in Networks and Telecommunications
-    institution: Télécom ParisTech, Paris, France
-    year: 2006
-  - course: Master of Science in Networks
-    institution: Sorbonne Université, Paris, France
-    year: 2002
+   - course: HDR (Habilitation Ã  Diriger des Recherches) in Computer Science
+     institution: Sorbonne UniversitÃ©, Paris, France
+     year: 2013
+   - course: PhD in Networks and Telecommunications
+     institution: TÃ©lÃ©com ParisTech, Paris, France
+     year: 2006
+   - course: Master of Science in Networks
+     institution: Sorbonne Universitï¿½, Paris, France
+     year: 2002
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +70,6 @@ user_groups:
 - Professors
 ---
 
-I am a Full Professor of Computer Science at École de technologie supérieure (ÉTS), Montréal, Canada, since 2021. My research interests include resource management in 5G/6G and O-RAN networks, green networking, machine learning for communications and networks, cybersecurity, digital twin, and quantum AI.
+I am a Full Professor of Computer Science at Ã‰cole de technologie supÃ©rieure (Ã‰TS), MontrÃ©al, Canada, since 2021. My research interests include resource management in 5G/6G and O-RAN networks, green networking, machine learning for communications and networks, cybersecurity, digital twin, and quantum AI.
 
 
