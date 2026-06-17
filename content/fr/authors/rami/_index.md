@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: HDR (Habilitation à Diriger des Recherches) en Sciences pour l'ingénieur
-    institution: Sorbonne Universit�, Paris, France
+    institution: Sorbonne Université, Paris, France
     year: 2013
   - course: PhD en Réseaux et Télécommunication
     institution: Télécom ParisTech, Paris, France
